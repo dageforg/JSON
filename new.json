@@ -1,6 +1,7 @@
 {
-	"fio": "Галеев Ришат Гумарович",
+	"first_name": "Ришат",
+	"last_name": "Галеев",
 	"age": 31,
-	"numberofpets": 0,
-	"desiredSalary": 70000
+	"number_of_pets": 0,
+	"desired_Salary": "1000$"
 }
